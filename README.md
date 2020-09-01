@@ -47,7 +47,7 @@ Hát... Sok választás nincs, de azért (még) van. A teljesség igénye nélk�
 ## Rádió:
 [[Gazdasági Rádió - Trend FM]](https://trendfm.hu/); [[Klubrádió]](https://www.klubradio.hu/); [[Sláger FM (Juventus Rádió) (103.9)]](https://www.slagerfm.hu/)
 ### Véleményvezérek (erősen szubjektív!)
-[[Kiszamoló.hu]](https://kiszamolo.hu/) (Gazdaság); [[Diétás Magyar Múzsa]](https://www.facebook.com/dmagyarmuzsa/) (Közéleti megmondó, publicisztika, hírszemle); [[Partizán]](https://www.youtube.com/channel/UCEFpEvuosfPGlV1VyUF6QOA) (Politika); [[K-monitor]](https://k-monitor.hu/hirek) (korrupciós sajtó-adatbázis)
+[[Kiszamoló.hu]](https://kiszamolo.hu/) (Gazdaság); [[Diétás Magyar Múzsa]](https://www.facebook.com/dmagyarmuzsa/) (Közéleti megmondó, publicisztika, hírszemle); [[Partizán]](https://www.youtube.com/channel/UCEFpEvuosfPGlV1VyUF6QOA) (Politika, tényfeltáró anyagok); [[K-monitor]](https://k-monitor.hu/hirek) (korrupciós sajtó-adatbázis)
 ____________________________________________________________________
 #### Tennivalók, tervek, 5letek
 * kamupártok FB oldalainak felvétele/felderítése
